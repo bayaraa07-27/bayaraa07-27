@@ -19,7 +19,7 @@ I build web applications as part of a team, with a primary focus on frontend dev
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=swagger&logoColor=white)
 
-- - **Data & Computer Vision:**
+-  **Data & Computer Vision:**
   - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
   ![InsightFace](https://img.shields.io/badge/InsightFace-000000?style=for-the-badge&logo=python&logoColor=white)
   ![ArcFace](https://img.shields.io/badge/ArcFace-FF6F00?style=for-the-badge&logo=opencv&logoColor=white)

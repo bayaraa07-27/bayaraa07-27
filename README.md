@@ -4,6 +4,8 @@
 
 I build web applications as part of a team, with a primary focus on frontend development. I also contribute to system structure and backend tasks, and I’m comfortable building APIs with FastAPI.
 
+![](https://github-readme-stats.vercel.app/api?username=xsol05&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 ## Skills
 - **Frontend:** React, JavaScript, React Native, HTML, CSS, Tailwind CSS
 - ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)

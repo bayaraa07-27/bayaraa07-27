@@ -147,7 +147,7 @@ A graduation project for automated attendance tracking using face recognition an
 <h3>
   <a href="https://www.zkino68.com" target="_blank">
     <img
-      src="https://www.zkino68.com/works/zkino.png"
+      src="./assets/zkino.png"
       width="48"
       height="48"
       align="center"

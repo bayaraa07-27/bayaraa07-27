@@ -18,8 +18,18 @@ I build web applications as part of a team, with a primary focus on frontend dev
 ![FastAPI](https://img.shields.io/badge/FastAPI-009485?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=swagger&logoColor=white)
-- **Data and computer vision:** MongoDB, InsightFace, ArcFace, OpenCV
-- **Tools:** Git, GitHub, Docker, Figma
+
+- - **Data & Computer Vision:**
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![InsightFace](https://img.shields.io/badge/InsightFace-000000?style=for-the-badge&logo=python&logoColor=white)
+  ![ArcFace](https://img.shields.io/badge/ArcFace-FF6F00?style=for-the-badge&logo=opencv&logoColor=white)
+  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+- **Tools:**
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
   #Tech stack
   <!-- Badges from https://github.com/Ileriayo/markdown-badges -->

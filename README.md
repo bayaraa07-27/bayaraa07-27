@@ -5,8 +5,8 @@
 I build web applications as part of a team, with a primary focus on frontend development. I also contribute to system structure and backend tasks, and I’m comfortable building APIs with FastAPI.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bayaraa07-27&theme=radical&hide_border=false" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayaraa07-27&theme=radical&hide_border=false&layout=compact" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bayaraa07-27&theme=radical&hide_border=false" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayaraa07-27&theme=radical&hide_border=false&layout=compact" height="200"/>
 </p>
 
 ## Skills

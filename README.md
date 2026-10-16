@@ -8,6 +8,7 @@ I build web applications as part of a team, with a primary focus on frontend dev
   <img src="https://github-readme-stats.vercel.app/api?username=bayaraa07-27&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayaraa07-27&theme=radical&hide_border=false&layout=compact" height="180"/>
 </p>
+![](https://github-readme-stats.vercel.app/api?username=bayaraa07-27&theme=radical&hide_border=false&show_icons=true)
 
 ## Skills
 - **Frontend:** React, JavaScript, React Native, HTML, CSS, Tailwind CSS

@@ -179,7 +179,7 @@ A team project for browsing movies, viewing details, and watching video content.
 <h3>
   <a href="https://flux-core.com/" target="_blank" rel="noopener noreferrer">
     <img
-      src="./assets/flux-core.png"
+      src="./assets/flux-core-mark.png"
       width="48"
       height="48"
       align="center"
